@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Kelly Vergara**, a **Data Scientist/Machine 
 - 🤝 Excellent **communication and collaboration skills**  
 
 ## ⚙️ Tech Stack  
-- **Programming Languages:** Python, C#, Java, SQL  
+- **Programming Languages:** Python, SQL, C#, Java, Javascript, Typescript  
 - **Data Tools & Libraries:** Jupyter, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Keras  
 - **DevOps & Cloud:** Docker containers, AWS deployment, Azure AI  
 - **AI Techniques:** Supervised learning, unsupervised learning, LLMs, generative AI  
